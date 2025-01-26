@@ -10,8 +10,11 @@
 - Uso de swagger para documentar la API.
 - Comandos útiles: `app.use()`, `app.get()`, `app.post()`.
 - Próximos pasos:
-  1. Conectar la API a una base de datos.
-  2. Implementar autenticació y autorización.
-  3. Validación de entradas.
-  4. Testing básico de la API.
-  5. Manejo de errores.
+  1. Validación de entradas.
+  2. Testing básico de la API.
+  3. Manejo de errores.
+
+# Notas del día 3
+- Creación de una base de datos PostgreSQL.
+- Creación de la tabla para to-do.
+- Conexión de la API una base de datos.
