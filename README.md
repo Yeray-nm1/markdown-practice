@@ -16,3 +16,17 @@ Este es un proyecto práctico para aprender Markdown y organizar mis ideas.
 |    Proyecto   |     Estado    |
 | ------------- | ------------- |
 |  SecretSanta  |  In progress  |
+
+## Stack Tecnológico
+- **Node.js**: versión 16+.
+- **pnpm**: manejador de paquetes rápido y eficiente.
+- **Docker**: contenedores y servicios (Redis).
+- **Redis**: Base de datos en memoria.
+- **Git**: Sistema de control de versiones.
+
+### Verificación del stack
+- Node.js: `node -v`
+- pnpm: `pnpm -v`
+- Docker: `docker --version`
+- Redis: Comando `PING` devuelve `PONG`
+- Git: `git version`
