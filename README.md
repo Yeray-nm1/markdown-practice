@@ -9,7 +9,7 @@ Este es un proyecto práctico para aprender Markdown y organizar mis ideas.
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone <url>
+   git clone https://github.com/Yeray-nm1/markdown-practice.git
 
 ## Contacto
 [Enlace a mi Portafolio](https://github.com/Yeray-nm1)
