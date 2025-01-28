@@ -18,3 +18,8 @@
 - Creación de una base de datos PostgreSQL.
 - Creación de la tabla para to-do.
 - Conexión de la API una base de datos.
+
+# Notas del día 4
+- Uso de Sequelize como ORM para comunicación con la base de datos.
+- Documentación modular con Swagger.
+- Creación de scripts para sincronización de base de datos.

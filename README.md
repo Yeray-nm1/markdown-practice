@@ -23,6 +23,8 @@ Este es un proyecto práctico para aprender Markdown y organizar mis ideas.
 - **Docker**: contenedores y servicios (Redis).
 - **Redis**: Base de datos en memoria.
 - **Git**: Sistema de control de versiones.
+- **Swagger**: Documentación de API.
+- **Sequelize**: ORM para comunicación entre Backend y base de datos.
 
 ### Verificación del stack
 - Node.js: `node -v`
